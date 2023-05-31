@@ -1,0 +1,893 @@
+[
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 230,
+        "question": "In Unix il comando passwd si usa per verificare la robustezza della password",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 231,
+        "question": "Nell'autenticazione passiva Prover e Verifier confrontano la conoscenza di un segreto",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 232,
+        "question": "Una password che utilizza tutti i tipi di caratteri è sempre più robusta di una che utilizza solo una categoria (es. lettere minuscole)",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 233,
+        "question": "I sistemi a sfida e risposta sono tipicamente implementati condividendo un segreto come ad esempio una chiave simmetrica.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 234,
+        "question": "Tra i fattori di autenticazione c'è qualcosa che si possiede materialmente come un Pin o una Password",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 235,
+        "question": "I due paradigmi fondamentali per il controllo dell'accesso sono DAC (Discretionary access control) e TAC (Tertiary access control)",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 236,
+        "question": "Ogni file del filesystem Unix è protetto da un set di permessi codificati in 12 bit",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 237,
+        "question": "Le ACL sono liste associate ad ogni soggetto del sistema",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 238,
+        "question": "Nel modello RBAC (Role-based access control) i permessi sono assegnati ai ruoli",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 239,
+        "question": "Le ACL e le Capabilities sono la stessa cosa",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 240,
+        "question": "Nel test di Kasiski si impiega la fattorizzazione delle distanze e la scelta di quelle con un fattore comune",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 241,
+        "question": "Nell'attacco dei cifrari a sostiuzioni il fatto che alcune lettere siano più frequenti di altri nel linguaggio naturale non ha nessuna importanza",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 242,
+        "question": "Nei cifrari a sostituzione polialfabetica le frequenze di un carattere cifrato derivano da contributi di diversi caratteri in chiaro",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 243,
+        "question": "La crittografia permette di proteggere le quattro proprietà di sicurezza dell'informazione: riservatezza, integrità, autenticità e disponibilità",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 244,
+        "question": "Nei cifrari a trasposizione le statistiche dei digrammi e trigrammi permettono di dedurre la dimensione della tabella di cifratura",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 245,
+        "question": "DH e RSA hanno scopi differenti: quello di RSA é di essere molto più veloce nella fase di cifratura/decifrazione",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 246,
+        "question": "DH e RSA hanno scopi differenti: quello di DH è scambiare una chiave condivisa tra due parti",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 247,
+        "question": "Data chiave pubblica (e, n) e chiave privata (d, n) la cifratura consiste nel calcolare: c = m^e mod n",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 248,
+        "question": "Diffie-Hellmann è uno schema di cifratura a chiave simmetrica",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 249,
+        "question": "Gli algoritmi di cifratura a blocchi sono così definiti perchè si arrestano non appena la cifrazione è considerata sicura",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 250,
+        "question": "La cifratura dei dischi protegge da qualsiasi tentativo di esfiltrazione dei dati",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 251,
+        "question": "Le chiavi di autenticazione usate da Secure Boot sono aggiornabili senza interruzioni di servizio",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 252,
+        "question": "La collocazione di sistemi in cloud ha unicamente effetti positivi sulla sicurezza",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 253,
+        "question": "Esistono tre tipi fondamentali di firewall Packet filter, Application-level gateway, Circuit-level gateway",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 254,
+        "question": "È possibile danneggiare fisicamente un sistema attraverso una porta USB",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 255,
+        "question": "Un Intrusion Detection System può bloccare un attacco in corso",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 256,
+        "question": "Il tasso di 'falsi positivi' non è un parametro importante per la qualità di un IDS",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 257,
+        "question": "Un vantaggio degli Host-based IDS è che possono classificare più accuratamente il rischio associato a un pacchetto di rete",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 258,
+        "question": "Suricata può funzionare sia da IDS che da IPS",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 259,
+        "question": "Il kernel di Linux permette di porre sotto monitoraggio l'invocazione di ogni system call",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 260,
+        "question": "802.1x è uno standard di autenticazione utilizzato nelle connessioni fisiche",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 261,
+        "question": "Gli attacchi passivi non modificano i dati in transito",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 262,
+        "question": "X.509 è la versione di SSL più utilizzata",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 263,
+        "question": "Le botnet sono reti di computer infetti chiamati zombie",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 264,
+        "question": "Appropriarsi dell'indirizzo di un host può permettere di attaccarlo di riflesso",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 265,
+        "question": "Con una Remote File Inclusion possiamo recuperare file interni al web server",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 266,
+        "question": "Il registro EIP in x86 salva il valore dell'indirizzo di ritorno da una funzione",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 267,
+        "question": "Code Injection si verifica quando dell'input non sanitizzato viene interpretato come codice",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 268,
+        "question": "La strcpy in linguaggio C non è una funzione a rischio di generare vulnerabilità di buffer overflow",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 269,
+        "question": "I canarini sono un meccanismo di protezione del kernel linux per segnalare un overflow in memoria",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 270,
+        "question": "FIDO alliance è un sistema di generazione degli OTP",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 271,
+        "question": "Lo scopo del TOTP è quello di forzare l'utente a cambiare periodicamente la password",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 272,
+        "question": "Tra i fattori di autenticazione c'è qualcosa che si possiede materialmente come un Pin o una Password",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 273,
+        "question": "Tra i fattori di autenticazione c'è qualcosa che si conosce (Password, PIN)",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 274,
+        "question": "In Unix il comando passwd si usa per verificare la robustezza della password",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 275,
+        "question": "Il SUID è il bit che permette di lanciare con sudo il programma su cui è settato",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 276,
+        "question": "I bit di autorizzazione standard nel filesystem Unix sono di 3 tipi R,W,X (read,write,execute)",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 277,
+        "question": "Il controllo dell’accesso è decidere se un soggetto può eseguire una specifica operazione su di un oggetto",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 278,
+        "question": "Nel modello RBAC (Role-based access control) i permessi sono assegnati ai ruoli",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 279,
+        "question": "I due paradigmi fondamentali per il controllo dell'accesso sono DAC (Discretionary access control) e TAC (Tertiary access control)",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 280,
+        "question": "Nei cifrari a sostituzione polialfabetica le frequenze di un carattere cifrato derivano da contributi di diversi caratteri in chiaro",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 281,
+        "question": "Nel cifrario con sostituzione monoalfabetica sull'alfabeto inglese lo spazio delle chiavi è grande 26!",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 282,
+        "question": "I cifrari classici possono essere impiegati per proteggere riservatezza e autenticità",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 283,
+        "question": "Nell'attacco dei cifrari a sostiuzioni il fatto che alcune lettere siano più frequenti di altri nel linguaggio naturale non ha nessuna importanza",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 284,
+        "question": "La proprietà di diffusione misura il grado in cui le proprietà statistiche degli elementi del testo cifrato vengono sparse sugli elementi del testo in chiaro",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 285,
+        "question": "La proprietà collision-free degli hash significa che non si può trovare una coppia di documenti con lo stesso hash",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 286,
+        "question": "Gli algoritmi di cifratura a blocchi cifrano in sequenza i frammenti in cui viene suddiviso il testo in chiaro",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 287,
+        "question": "Il miglior attacco a RSA è la ricerca dei fattori del modulo",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 288,
+        "question": "Nel modello Infrastrutturale della certificazione delle chiavi pubbliche l'autenticità della chiave pubblica è data da un soggetto terzo fidato che emette la certificazione",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 289,
+        "question": "CBC sta per Cipher Block Chaining e consiste nel Cifrare un blocco modificandolo col contributo del blocco cifrato precedente",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 290,
+        "question": "L'approccio default deny su firewall significa che tutto il traffico viene bloccato",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 291,
+        "question": "La collocazione di sistemi in cloud migliora (generalmente) la disponibilità dei servizi",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 292,
+        "question": "La collocazione di sistemi in cloud ha unicamente effetti positivi sulla sicurezza",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 293,
+        "question": "Esistono tre tipi fondamentali di firewall Packet filter, Application-level gateway, Circuit-level gateway",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 294,
+        "question": "Measured Boot si riferisce a un processo generale, che tipicamente usa un TPM come hardware root of trust",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 295,
+        "question": "Il controllo dell'integrità dei file è uno dei metodi usati dagli HIDS",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 296,
+        "question": "Suricata può funzionare sia da IDS che da IPS",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 297,
+        "question": "Il tasso di 'falsi positivi' non è un parametro importante per la qualità di un IDS",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 298,
+        "question": "Il kernel di Linux permette di porre sotto monitoraggio l'invocazione di ogni system call",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 299,
+        "question": "I sistemi SIEM raccolgono dati che devono essere nativamente omogenei per poter essere confrontati e aggregati",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 300,
+        "question": "Il Command and Control è il computer incaricato di gestire le comunicazioni con gli elementi di una botnet",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 301,
+        "question": "Appropriarsi dell'indirizzo di un host può permettere di attaccarlo di riflesso",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 302,
+        "question": "HTTPS è HTTP su di un canale di comunicazione cifrato",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 303,
+        "question": "Gli attacchi passivi non modificano i dati in transito",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 304,
+        "question": "Lo sniffing può compromettere la riservatezza dei dati",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 305,
+        "question": "ASLR è un meccanismo di protezione del kernel linux per randomizzare gli spazi di memoria",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 306,
+        "question": "Inserire un ritardo di pochi secondi tra due login errate non è una misura efficace per mitigare gli attacchi brute force",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 307,
+        "question": "Con una Remote File Inclusion possiamo recuperare file interni al web server",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 308,
+        "question": "Nelle time based sql-injection è importante il tempo di computazione della query sql",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 309,
+        "question": "Se un sito è protetto da TLS non è possibile eseguire una SQL Injection",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 1
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 310,
+        "question": "La crittografia simmetrica utilizza chiavi pubbliche e private per cifrare e decifrare i dati.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 311,
+        "question": "La crittografia asimmetrica utilizza la stessa chiave per cifrare e decifrare i dati.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 312,
+        "question": "Gli algoritmi di cifratura a chiave pubblica utilizzano una chiave pubblica per cifrare i dati e una chiave privata per decifrarli.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 313,
+        "question": "Gli algoritmi di cifratura a chiave privata utilizzano una chiave privata per cifrare i dati e una chiave pubblica per decifrarli.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 314,
+        "question": "La crittografia end-to-end protegge solo il contenuto di un messaggio durante il trasferimento tra due parti.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 315,
+        "question": "La crittografia a chiave pubblica è meno sicura della crittografia a chiave privata perché la chiave pubblica è generalmente condivisa con più persone.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 316,
+        "question": "La crittografia a chiave simmetrica è più veloce della crittografia a chiave asimmetrica.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 317,
+        "question": "La crittografia a chiave asimmetrica è meno sicura della crittografia a chiave simmetrica perché le chiavi sono generalmente più corte.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 318,
+        "question": "Gli algoritmi di cifratura a blocchi dividono il testo in blocchi di lunghezza fissa e cifrano ogni blocco separatamente.",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 319,
+        "question": "Il sistema operativo Windows ha un firewall integrato per proteggere il computer da attacchi esterni",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 320,
+        "question": "L'algoritmo di cifratura AES è stato sviluppato dalla NSA",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 321,
+        "question": "La crittografia asimmetrica è più lenta della crittografia simmetrica",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 322,
+        "question": "Il controllo dell'accesso basato su ruoli è un modello di sicurezza in cui i permessi vengono assegnati direttamente agli utenti",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 323,
+        "question": "Il modello di sicurezza DAC (Discretionary Access Control) consente agli utenti di esercitare il controllo discrezionale sui loro file e risorse",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 324,
+        "question": "Il malware può essere installato sul computer senza il consenso dell'utente",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 325,
+        "question": "Gli hacker professionali non utilizzano mai virus o malware per compiere attacchi",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 326,
+        "question": "I firewall possono proteggere il computer da tutti gli attacchi",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 327,
+        "question": "L'intrusione di un utente non autorizzato in un sistema informatico è sempre il risultato di una vulnerabilità del sistema",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 328,
+        "question": "I sistemi di rilevamento delle intrusioni possono solo rilevare attacchi in corso, ma non possono prevenirli",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    }
+]
