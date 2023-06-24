@@ -27,7 +27,7 @@
         "verified": 1
     },
     {
-        "answer": 1,
+        "answer": 0,
         "category_id": 2,
         "created_at": "2023-01-08 09:22:54",
         "id": 233,
@@ -63,7 +63,7 @@
         "verified": 1
     },
     {
-        "answer": 1,
+        "answer": 0,
         "category_id": 2,
         "created_at": "2023-01-08 09:22:54",
         "id": 237,
@@ -189,7 +189,7 @@
         "verified": 1
     },
     {
-        "answer": 1,
+        "answer": 0,
         "category_id": 2,
         "created_at": "2023-01-08 09:22:54",
         "id": 251,
@@ -243,7 +243,7 @@
         "verified": 1
     },
     {
-        "answer": 0,
+        "answer": 1,
         "category_id": 2,
         "created_at": "2023-01-08 09:22:54",
         "id": 257,
@@ -288,7 +288,7 @@
         "verified": 1
     },
     {
-        "answer": 1,
+        "answer": 0,
         "category_id": 2,
         "created_at": "2023-01-08 09:22:54",
         "id": 262,
@@ -324,7 +324,7 @@
         "verified": 1
     },
     {
-        "answer": 1,
+        "answer": 0,
         "category_id": 2,
         "created_at": "2023-01-08 09:22:54",
         "id": 266,
@@ -486,7 +486,7 @@
         "verified": 1
     },
     {
-        "answer": 1,
+        "answer": 0,
         "category_id": 2,
         "created_at": "2023-01-08 09:22:54",
         "id": 284,
@@ -504,7 +504,7 @@
         "verified": 1
     },
     {
-        "answer": 1,
+        "answer": 0,
         "category_id": 2,
         "created_at": "2023-01-08 09:22:54",
         "id": 286,
@@ -887,6 +887,213 @@
         "created_at": "2023-01-08 09:22:54",
         "id": 328,
         "question": "I sistemi di rilevamento delle intrusioni possono solo rilevare attacchi in corso, ma non possono prevenirli",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 329,
+        "question": "Il salt è una variazione random inserita dal sistema all'atto della memorizzazione della password scelta",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 330,
+        "question": "Il comando find / -type f -perm /6000 permette di trovare i file coi bit SUID e SGID impostati a 1",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 331,
+        "question": "Un vantaggio dei Network-based IDS è che non interferiscono col funzionamento dei sistemi monitorati",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 332,
+        "question": "L'IP spoofing consiste nel cercare di scoprire l'IP di una macchina vittima",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 333,
+        "question": " Lo sniffing NON richiede accesso fisico alla rete",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 334,
+        "question": "Il comando con codice esadecimale 0x90 dell'assembler x86 è del tutto inutile ai fini della realizzazione di payload",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 335,
+        "question": "Nell'autenticazione attiva Prover e Verifier si scambiano ogni volta un dato diversoi",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 336,
+        "question": "Ogni permesso su di un file in NTFS può assumere due soli valori (concesso o negato) –",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 337,
+        "question": " L'Indice di Coincidenza è la probabilità che due lettere scelte a caso in un testo siano diverse",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 338,
+        "question": " Nel modello web of trust della certificazione delle chiavi pubbliche l'autenticità della chiave pubblica è attestata dagli altri utenti",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 339,
+        "question": "Uno dei presupposti per la robustezza degli algoritmi a chiave asimmetrica è che non esistono modi efficenti di fattorizzare il modulo",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 340,
+        "question": " Il salt è una password aggiuntiva di secondo livello",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 341,
+        "question": " La fiducia nell'autenticità di una Root Certification Authority è perfettamente verificabile dal  corrispondente certificato",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 342,
+        "question": "L'IP spoofing consiste nell'assumere un indirizzo IP diverso da quello regolarmente assegnato al proprio sistema",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 343,
+        "question": "Nelle SQL Injection di tipo union select, il numero di colonne da usare per la query è un dato fondamentale per la riuscita dell'attacco",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 344,
+        "question": "I log sono utili solo a fini forensi (cioè per comprendere un attacco dopo che si è compiuto)",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 345,
+        "question": "2FA e 2 step authentication sono esattamente la stessa cosa",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 346,
+        "question": "L'ARP poisoning consiste nel convincere un host che l'IP di una vittima è associato al MAC  dell'attaccante",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 347,
+        "question": " Un EDR può essere definito come una variante evoluta di Network-based IDS",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 348,
+        "question": " È possibile esfiltrare dati attraverso richieste DNS",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 349,
+        "question": " Secure Boot è il nome specifico dato all’implementazione di trusted boot basata su UEFI",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 0,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 350,
+        "question": " Nei cifrari a sostituzione polialfabetica conoscere il contenuto di una parte del messaggio non aiuta la decifrazione dell'intero testo",
+        "updated_at": "2023-01-08 09:22:54",
+        "verified": 0
+    },
+    {
+        "answer": 1,
+        "category_id": 2,
+        "created_at": "2023-01-08 09:22:54",
+        "id": 351,
+        "question": " Con una Local File Inclusion possiamo recuperare file interni al web server",
         "updated_at": "2023-01-08 09:22:54",
         "verified": 0
     }
